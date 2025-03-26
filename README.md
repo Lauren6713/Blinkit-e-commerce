@@ -49,12 +49,6 @@ Dataset available on Kaggle: [Blinkit Sales Dataset](https://www.kaggle.com/data
 - **Google Colab** (for data analysis)
 - **Power BI** (for visualization and dashboard creation)
 
-## Repository Structure
-- `notebooks/` – Jupyter Notebooks for data processing & analysis
-- `data/` – Raw and processed datasets
-- `visualizations/` – Power BI dashboards and charts
-- `reports/` – Summary reports and insights
-
 ## Contact
 For any inquiries or collaboration, feel free to reach out!
 
